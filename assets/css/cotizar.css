@@ -1,0 +1,52 @@
+.cotiza{
+    display:flex;
+    margin-bottom: 25px;
+}
+.Tcotiza{
+    font-size: 18px;
+    margin-right: 15px;
+}
+.Icotiza{
+    color:aliceblue;
+    width: 300px;
+    background-color: #252122;
+    border-radius: 10px;
+    border: none;
+    padding-left: 10px;
+    font-size: 15px;
+}
+.Txcotiza{
+    width: 100%;
+    height: 60px;
+    color:aliceblue;
+    background-color: #252122;
+    border-radius: 10px;
+    border: none;
+    padding-left: 10px;
+    font-size: 15px;
+}
+.Icotiza::placeholder {
+    color: aliceblue;
+    padding-left: 10px;
+}
+.Txcotiza::placeholder{
+    color: aliceblue;
+    padding-left: 10px;
+}
+#IcoN{
+    margin: 0 360px 0 5px;
+}
+#IcoT{
+    margin: 0 80px 0 0;
+}
+#btn_coti{
+    display: flex;
+    justify-content: flex-end;
+}
+#imgcotiza{
+    background-image: url(/images/anton-maksimov-5642-su-3dnZdTseNKg-unsplash.jpg);
+    background-position: 0px -100px;
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+    height: 300px;
+}
