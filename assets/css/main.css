@@ -169,6 +169,10 @@ input, select, textarea {
 		margin-bottom: 2em;
 	}
 
+	#Orga{
+		width: 700px;
+		height: auto;
+	}
 /* Container */
 
 	.container {
